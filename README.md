@@ -40,12 +40,16 @@ Libre Office Writer (source: http://www.libreoffice.org)
 license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
+<<<<<<< HEAD
 
 OpenOffice ( http://www.openoffice.org)
 The OpenOffice project use a Apache License 2.0 
 open source URL (http://www.openoffice.org/download/sdk/index.html)
 
 OpenOffice ( http://www.openoffice.org)
+=======
+OpenOffice (http://www.openoffice.org "Openoffice")
+>>>>>>> f2b381375a0a77342c05b2953f4fed3223bdf965
 (license http://www.openoffice.org/download/sdk/index.html)
 
 
