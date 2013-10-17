@@ -4,7 +4,7 @@
 
 ## 1. Linux uppsetning
 
-https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
+[id]: screenshot.png "MYND"
 
 ## 2. Uppsetning á vim && git
 
