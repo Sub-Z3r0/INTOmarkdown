@@ -36,7 +36,7 @@ Nicole
 3 open source programs:
 
 1. LibreOffice Writer 
-Libre Office Writer (source: http://www.libreoffice.org)
+Libre Office Writer (source: http://www.libreoffice.org)<br>
 license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
