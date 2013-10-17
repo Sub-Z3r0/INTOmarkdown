@@ -4,7 +4,7 @@
 
 ## 1. Linux uppsetning
 
-screenshot.png
+https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
 
 ## 2. Uppsetning á vim && git
 
