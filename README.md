@@ -22,7 +22,7 @@ My experience with ubuntu shell, was that it was equally enjoying as it was abys
 I decided, in this assignment to install Ubuntu exclusively on my machine, replacing W8 all together.  
 Experimenting with the shell is enjoyable to some extent.
 
-https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png "link to my assignment"
+[foo]: https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png "link to assignment"
 
 ## 4. Uppsettur hugbúnaður
 
@@ -30,13 +30,13 @@ Nicole
 
 3 open source programs:
 
-1.  LibreOffice Writer 
+1. LibreOffice Writer 
 Libre Office Writer (source: http://www.libreoffice.org)
 The LibreOffice Writer project uses a dual LGPLv3/MPL license
 open source URL (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
-OpenOffice (http://www.openoffice.org)
+OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
 The OpenOffice project use a Apache License 2.0 
 open source URL (http://www.openoffice.org/download/sdk/index.html)
 
