@@ -35,34 +35,35 @@ Nicole
 
 3 open source programs:
 
-1. LibreOffice Writer 
+1. LibreOffice Writer<br>
 Libre Office Writer (source: http://www.libreoffice.org)<br>
 license (http://www.gnu.org/licenses/lgpl.html)
 
-2. OpenOffice 
-OpenOffice ( http://www.openoffice.org)
+2. OpenOffice<br>
+OpenOffice ( http://www.openoffice.org)<br>
 (license http://www.openoffice.org/download/sdk/index.html)
 
 
-3. TeX Live 3.14
-TeX (http://tex.pro.de)
+3. TeX Live 3.14<br>
+TeX (http://tex.pro.de)<br>
 (license http://tug.org/pipermail/tex-live/2011-April/028783.html)
+
 
 Kristoffer
 
 3 open source programs:
 
-1. Firefox
-Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html) 
-(License: http://www.mozilla.org/MPL/)
+1. Firefox<br>
+Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
+(License: http://www.mozilla.org/MPL/)<br>
 
-2. Ubuntu
-Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
-(license: http://www.ubuntu.com/about/about-ubuntu/licensing)
+2. Ubuntu<br>
+Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
+(license: http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
 
-3.VLC
-(http://www.videolan.org/vlc/download-sources.html)
-(license: http://www.gnu.org/licenses/licenses.html)
+3.VLC<br>
+VLC (http://www.videolan.org/vlc/download-sources.html)<br>
+(license: http://www.gnu.org/licenses/licenses.html)<br>
 
 
 ## 5. Unnið með Git (2. hluti)
