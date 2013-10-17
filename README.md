@@ -34,7 +34,6 @@ https://github.com/Sub-Z3r0/JohnnyWalker
 <b>Nicole</b>
 
 <em>3 open source programs:</em>
-
 1. LibreOffice Writer<br>
 Libre Office Writer (source: http://www.libreoffice.org)<br>
 license (http://www.gnu.org/licenses/lgpl.html)
@@ -54,7 +53,6 @@ TeX (http://tex.pro.de)<br>
 <b>Kristoffer</b>
 
 <em>3 open source programs:</em>
-
 1. Firefox<br>
 Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
 (License: http://www.mozilla.org/MPL/)<br>
@@ -63,8 +61,7 @@ Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
 Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
 (license: http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
 
-3. Ubuntu<br>
-3.VLC<br>
+3. VLC<br>
 VLC (http://www.videolan.org/vlc/download-sources.html)<br>
 (license: http://www.gnu.org/licenses/licenses.html)<br>
 
