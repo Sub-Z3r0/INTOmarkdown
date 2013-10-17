@@ -5,7 +5,9 @@
 
 ## 1. Linux uppsetning
 
-[id]: screenshot.png
+screenshot.png
+
+https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
 
 ## 2. Uppsetning á vim && git
 
@@ -22,7 +24,7 @@ My experience with ubuntu shell, was that it was equally enjoying as it was abys
 I decided, in this assignment to install Ubuntu exclusively on my machine, replacing W8 all together.  
 Experimenting with the shell is enjoyable to some extent.
 
-[foo]: https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png "link to assignment"
+https://github.com/Sub-Z3r0/JohnnyWalker
 
 ## 4. Uppsettur hugbúnaður
 
@@ -36,7 +38,7 @@ The LibreOffice Writer project uses a dual LGPLv3/MPL license
 open source URL (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
-OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
+OpenOffice ( http://www.openoffice.org)
 The OpenOffice project use a Apache License 2.0 
 open source URL (http://www.openoffice.org/download/sdk/index.html)
 
