@@ -40,14 +40,9 @@ Libre Office Writer (source: http://www.libreoffice.org)
 license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
-<<<<<<< HEAD
-OpenOffice ( http://www.openoffice.org)
-The OpenOffice project use a Apache License 2.0 
-open source URL (http://www.openoffice.org/download/sdk/index.html)
-=======
-OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
+OpenOffice (http://www.openoffice.org "Openoffice")
 (license http://www.openoffice.org/download/sdk/index.html)
->>>>>>> 502d94954263dbb5a1855e97079f8ad8fad74658
+
 
 3. TeX Live 3.14
 TeX (http://tex.pro.de)
