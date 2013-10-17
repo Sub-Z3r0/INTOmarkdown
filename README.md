@@ -1,25 +1,66 @@
 #Open Source
 
-@Sub Z3r0 @Neunmalklug
+1. Kristofer Andersen
+2. Nicole 
 
 ## 1. Linux uppsetning
 
-[id]: screenshot.png "MYND"
+[id]: screenshot.png
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Everything went according to plan, I mean, it couldn't have been simpler with the instructions.  This was the easy part.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Nicole
+My experience with Ubuntu was not bad. We learned a lot about to handle with github and to work together. Sometimes your description was not so good and it would be better when it´s more detailed.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+
+Kristoffer
+My experience with ubuntu shell, was that it was equally enjoying as it was abysmal.  I.e, I did in fact enjoy it, but the learning curve was tedious and took some time getting in to the git commands.  
+I decided, in this assignment to install Ubuntu exclusively on my machine, replacing W8 all together.  
+Experimenting with the shell is enjoyable to some extent.
+
+https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png "link to my assignment"
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Nicole
+
+3 open source programs:
+
+1.  LibreOffice Writer 
+Libre Office Writer (source: http://www.libreoffice.org)
+The LibreOffice Writer project uses a dual LGPLv3/MPL license
+open source URL (http://www.gnu.org/licenses/lgpl.html)
+
+2. OpenOffice 
+OpenOffice (http://www.openoffice.org)
+The OpenOffice project use a Apache License 2.0 
+open source URL (http://www.openoffice.org/download/sdk/index.html)
+
+3. TeX Live 3.14
+TeX (http://tex.pro.de)
+open source URL (http://tug.org/pipermail/tex-live/2011-April/028783.html)
+
+Kristoffer
+
+3 open source programs:
+
+1. Firefox
+Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html) 
+(License: http://www.mozilla.org/MPL/)
+
+2. Ubuntu
+Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
+license: http://www.ubuntu.com/about/about-ubuntu/licensing
+
+3.VLC (
+Source: http://www.videolan.org/vlc/download-sources.html)
+license: http://www.gnu.org/licenses/licenses.html
+
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Finito.
