@@ -4,7 +4,7 @@
 
 ## 1. Linux uppsetning
 
-![Alt text](~/home/krissi/Pictures/screenshot.png "Screenshot af desktop ubuntu")
+![Alt text](~/home/krissi/INTOPrufa/INTOmarkdown/screenshot.png "Screenshot af desktop ubuntu")
 
 ## 2. Uppsetning á vim && git
 
