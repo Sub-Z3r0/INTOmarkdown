@@ -4,7 +4,7 @@
 
 ## 1. Linux uppsetning
 
-![Alt text](~/home/krissi/INTOPrufa/INTOmarkdown/screenshot.png "Screenshot af desktop ubuntu")
+[id]: https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
 
 ## 2. Uppsetning á vim && git
 
