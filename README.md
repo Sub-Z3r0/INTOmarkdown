@@ -55,7 +55,7 @@ Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
 (license: http://www.ubuntu.com/about/about-ubuntu/licensing)
 
 3.VLC
-VLC (http://www.videolan.org/vlc/download-sources.html)
+(http://www.videolan.org/vlc/download-sources.html)
 (license: http://www.gnu.org/licenses/licenses.html)
 
 
