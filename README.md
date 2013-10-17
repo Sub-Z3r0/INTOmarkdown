@@ -1,7 +1,7 @@
 #Open Source
 
 1. Kristofer Andersen
-2. Nicole 
+2. Nicole Sengl
 
 ## 1. Linux uppsetning
 
@@ -32,12 +32,10 @@ Nicole
 
 1. LibreOffice Writer 
 Libre Office Writer (source: http://www.libreoffice.org)
-dual LGPLv3/MPL license
 license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
 OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
-Apache License 2.0 (
 (license http://www.openoffice.org/download/sdk/index.html)
 
 3. TeX Live 3.14
@@ -56,8 +54,8 @@ Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)
 Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
 (license: http://www.ubuntu.com/about/about-ubuntu/licensing)
 
-3.VLC (
-Source: http://www.videolan.org/vlc/download-sources.html)
+3.VLC
+VLC (http://www.videolan.org/vlc/download-sources.html)
 (license: http://www.gnu.org/licenses/licenses.html)
 
 
