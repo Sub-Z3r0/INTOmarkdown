@@ -32,17 +32,17 @@ Nicole
 
 1. LibreOffice Writer 
 Libre Office Writer (source: http://www.libreoffice.org)
-The LibreOffice Writer project uses a dual LGPLv3/MPL license
-open source URL (http://www.gnu.org/licenses/lgpl.html)
+dual LGPLv3/MPL license
+license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
 OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
-The OpenOffice project use a Apache License 2.0 
-open source URL (http://www.openoffice.org/download/sdk/index.html)
+Apache License 2.0 (
+(license http://www.openoffice.org/download/sdk/index.html)
 
 3. TeX Live 3.14
 TeX (http://tex.pro.de)
-open source URL (http://tug.org/pipermail/tex-live/2011-April/028783.html)
+(license http://tug.org/pipermail/tex-live/2011-April/028783.html)
 
 Kristoffer
 
@@ -54,11 +54,11 @@ Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)
 
 2. Ubuntu
 Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
-license: http://www.ubuntu.com/about/about-ubuntu/licensing
+(license: http://www.ubuntu.com/about/about-ubuntu/licensing)
 
 3.VLC (
 Source: http://www.videolan.org/vlc/download-sources.html)
-license: http://www.gnu.org/licenses/licenses.html
+(license: http://www.gnu.org/licenses/licenses.html)
 
 
 ## 5. Unnið með Git (2. hluti)
