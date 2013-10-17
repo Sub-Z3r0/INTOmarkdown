@@ -31,7 +31,7 @@ https://github.com/Sub-Z3r0/JohnnyWalker
 
 ## 4. Uppsettur hugbúnaður
 
-Nicole
+<p>Nicole</p>
 
 3 open source programs:
 
@@ -49,7 +49,7 @@ TeX (http://tex.pro.de)<br>
 (license http://tug.org/pipermail/tex-live/2011-April/028783.html)
 
 
-Kristoffer
+<p>Kristoffer</p>
 
 3 open source programs:
 
