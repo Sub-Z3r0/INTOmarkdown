@@ -1,13 +1,16 @@
 #Open Source
 
 1. Kristofer Andersen
-2. Nicole 
+2. Nicole Sengl
 
 ## 1. Linux uppsetning
 
 screenshot.png
 
 https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
+
+Adding the screenshot for some reason wasn't working, with several of the commands I used from the site.  And I was running out of time
+So this will have to do. 
 
 ## 2. Uppsetning á vim && git
 
@@ -34,17 +37,21 @@ Nicole
 
 1. LibreOffice Writer 
 Libre Office Writer (source: http://www.libreoffice.org)
-The LibreOffice Writer project uses a dual LGPLv3/MPL license
-open source URL (http://www.gnu.org/licenses/lgpl.html)
+license (http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice 
+<<<<<<< HEAD
 OpenOffice ( http://www.openoffice.org)
 The OpenOffice project use a Apache License 2.0 
 open source URL (http://www.openoffice.org/download/sdk/index.html)
+=======
+OpenOffice ([foo]: http://www.openoffice.org "Openoffice")
+(license http://www.openoffice.org/download/sdk/index.html)
+>>>>>>> 502d94954263dbb5a1855e97079f8ad8fad74658
 
 3. TeX Live 3.14
 TeX (http://tex.pro.de)
-open source URL (http://tug.org/pipermail/tex-live/2011-April/028783.html)
+(license http://tug.org/pipermail/tex-live/2011-April/028783.html)
 
 Kristoffer
 
@@ -56,11 +63,11 @@ Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)
 
 2. Ubuntu
 Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
-license: http://www.ubuntu.com/about/about-ubuntu/licensing
+(license: http://www.ubuntu.com/about/about-ubuntu/licensing)
 
-3.VLC (
-Source: http://www.videolan.org/vlc/download-sources.html)
-license: http://www.gnu.org/licenses/licenses.html
+3.VLC
+(http://www.videolan.org/vlc/download-sources.html)
+(license: http://www.gnu.org/licenses/licenses.html)
 
 
 ## 5. Unnið með Git (2. hluti)
