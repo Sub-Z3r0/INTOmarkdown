@@ -34,6 +34,7 @@ https://github.com/Sub-Z3r0/JohnnyWalker
 <b>Nicole</b>
 
 <em>3 open source programs:</em>
+
 1. LibreOffice Writer<br>
 Libre Office Writer (source: http://www.libreoffice.org)<br>
 license (http://www.gnu.org/licenses/lgpl.html)
@@ -53,6 +54,7 @@ TeX (http://tex.pro.de)<br>
 <b>Kristoffer</b>
 
 <em>3 open source programs:</em>
+
 1. Firefox<br>
 Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
 (License: http://www.mozilla.org/MPL/)<br>
