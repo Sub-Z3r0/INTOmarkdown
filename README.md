@@ -7,7 +7,7 @@
 
 screenshot.png
 
-https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png
+![Screenshot](https://raw.github.com/Sub-Z3r0/INTOmarkdown/master/screenshot.png)
 
 Adding the screenshot for some reason wasn't working, with several of the commands I used from the site.  And I was running out of time
 So this will have to do. 
