@@ -34,7 +34,7 @@ Experimenting with the shell is enjoyable to some extent.
 <em>3 open source programs:</em>
 
 1. LibreOffice Writer<br>
-[Source](source: http://www.libreoffice.org)<br>
+[Source](http://www.libreoffice.org)<br>
 [license](http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice<br>
@@ -54,11 +54,11 @@ Experimenting with the shell is enjoyable to some extent.
 <em>3 open source programs:</em>
 
 1. Firefox<br>
-[Source] (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
+[Source](http://www-archive.mozilla.org/projects/firefox/index.html)<br>
 [License](http://www.mozilla.org/MPL/)<br>
 
 2. Ubuntu<br>
-[Source](source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
+[Source](https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
 [License](http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
 
 3. VLC<br>
