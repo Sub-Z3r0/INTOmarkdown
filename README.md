@@ -31,47 +31,41 @@ https://github.com/Sub-Z3r0/JohnnyWalker
 
 ## 4. Uppsettur hugbúnaður
 
-Nicole
+<b>Nicole</b>
 
-3 open source programs:
+<em>3 open source programs:</em>
 
-1. LibreOffice Writer 
-Libre Office Writer (source: http://www.libreoffice.org)
+1. LibreOffice Writer<br>
+Libre Office Writer (source: http://www.libreoffice.org)<br>
 license (http://www.gnu.org/licenses/lgpl.html)
 
-2. OpenOffice 
-<<<<<<< HEAD
-
-OpenOffice ( http://www.openoffice.org)
-The OpenOffice project use a Apache License 2.0 
-open source URL (http://www.openoffice.org/download/sdk/index.html)
-
-OpenOffice ( http://www.openoffice.org)
-=======
-OpenOffice (http://www.openoffice.org "Openoffice")
->>>>>>> f2b381375a0a77342c05b2953f4fed3223bdf965
+2. OpenOffice<br>
+OpenOffice ( http://www.openoffice.org)<br>
 (license http://www.openoffice.org/download/sdk/index.html)
 
-
-3. TeX Live 3.14
-TeX (http://tex.pro.de)
+3. TeX Live 3.14<br>
+TeX (http://tex.pro.de)<br>
 (license http://tug.org/pipermail/tex-live/2011-April/028783.html)
 
-Kristoffer
 
-3 open source programs:
 
-1. Firefox
-Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html) 
-(License: http://www.mozilla.org/MPL/)
 
-2. Ubuntu
-Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)
-(license: http://www.ubuntu.com/about/about-ubuntu/licensing)
 
-3.VLC
-(http://www.videolan.org/vlc/download-sources.html)
-(license: http://www.gnu.org/licenses/licenses.html)
+<b>Kristoffer</b>
+
+<em>3 open source programs:</em>
+
+1. Firefox<br>
+Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
+(License: http://www.mozilla.org/MPL/)<br>
+
+2. Ubuntu<br>
+Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
+(license: http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
+
+3. VLC<br>
+VLC (http://www.videolan.org/vlc/download-sources.html)<br>
+(license: http://www.gnu.org/licenses/licenses.html)<br>
 
 
 ## 5. Unnið með Git (2. hluti)
