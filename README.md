@@ -14,16 +14,18 @@ Everything went according to plan, I mean, it couldn't have been simpler with th
 ## 3. Unnið með Git (1. hluti)
 
 
-Nicole
-My experience with Ubuntu was not bad. We learned a lot about to handle with github and to work together. Sometimes your description was not so good and it would be better when it´s more detailed.
+Nicole:
+
++	My experience with Ubuntu was not bad. We learned a lot about to handle with github and to work together. Sometimes your description was not so good and it would be better when it´s more detailed.
 
 
-Kristófer
-My experience with ubuntu shell, was that it was equally enjoying as it was abysmal.  I.e, I did in fact enjoy it, but the learning curve was tedious and took some time getting in to the git commands.  
+Kristófer:
+
++	My experience with ubuntu shell, was that it was equally enjoying as it was abysmal.  I.e, I did in fact enjoy it, but the learning curve was tedious and took some time getting in to the git commands.  
 I decided, in this assignment to install Ubuntu exclusively on my machine, replacing W8 all together.  
 Experimenting with the shell is enjoyable to some extent.
 
-https://github.com/Sub-Z3r0/JohnnyWalker
+[Link to our github](https://github.com/Sub-Z3r0/JohnnyWalker)
 
 ## 4. Uppsettur hugbúnaður
 
