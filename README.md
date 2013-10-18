@@ -32,16 +32,16 @@ https://github.com/Sub-Z3r0/JohnnyWalker
 <em>3 open source programs:</em>
 
 1. LibreOffice Writer<br>
-Libre Office Writer (source: http://www.libreoffice.org)<br>
-license (http://www.gnu.org/licenses/lgpl.html)
+[Source](source: http://www.libreoffice.org)<br>
+[license](http://www.gnu.org/licenses/lgpl.html)
 
 2. OpenOffice<br>
-OpenOffice ( http://www.openoffice.org)<br>
-(license http://www.openoffice.org/download/sdk/index.html)
+[Source](http://www.openoffice.org)<br>
+[license](http://www.openoffice.org/download/sdk/index.html)
 
 3. TeX Live 3.14<br>
-TeX (http://tex.pro.de)<br>
-(license http://tug.org/pipermail/tex-live/2011-April/028783.html)
+[Source](http://tex.pro.de)<br>
+[License]( http://tug.org/pipermail/tex-live/2011-April/028783.html)
 
 
 
@@ -52,16 +52,16 @@ TeX (http://tex.pro.de)<br>
 <em>3 open source programs:</em>
 
 1. Firefox<br>
-Firefox (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
-(License: http://www.mozilla.org/MPL/)<br>
+[Source] (source: http://www-archive.mozilla.org/projects/firefox/index.html)<br>
+[License](http://www.mozilla.org/MPL/)<br>
 
 2. Ubuntu<br>
-Ubuntu: (source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
-(license: http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
+[Source](source https://launchpad.net/ubuntu/+source/curl/7.21.2-4ubuntu1)<br>
+[License](http://www.ubuntu.com/about/about-ubuntu/licensing)<br>
 
 3. VLC<br>
-VLC (http://www.videolan.org/vlc/download-sources.html)<br>
-(license: http://www.gnu.org/licenses/licenses.html)<br>
+[Source](http://www.videolan.org/vlc/download-sources.html)<br>
+[License](http://www.gnu.org/licenses/licenses.html)<br>
 
 
 ## 5. Unnið með Git (2. hluti)
