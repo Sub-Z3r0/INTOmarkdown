@@ -1,6 +1,6 @@
 #Open Source
 
-1. Kristofer Andersen
+1. Kristófer Andersen
 2. Nicole Sengl
 
 ## 1. Linux uppsetning
@@ -13,11 +13,12 @@ Everything went according to plan, I mean, it couldn't have been simpler with th
 
 ## 3. Unnið með Git (1. hluti)
 
+
 Nicole
 My experience with Ubuntu was not bad. We learned a lot about to handle with github and to work together. Sometimes your description was not so good and it would be better when it´s more detailed.
 
 
-Kristoffer
+Kristófer
 My experience with ubuntu shell, was that it was equally enjoying as it was abysmal.  I.e, I did in fact enjoy it, but the learning curve was tedious and took some time getting in to the git commands.  
 I decided, in this assignment to install Ubuntu exclusively on my machine, replacing W8 all together.  
 Experimenting with the shell is enjoyable to some extent.
@@ -46,7 +47,7 @@ TeX (http://tex.pro.de)<br>
 
 
 
-<b>Kristoffer</b>
+<b>Kristófer</b>
 
 <em>3 open source programs:</em>
 
